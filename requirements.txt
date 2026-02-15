@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-community
+langchain-mcp-adapters
+chromadb
+python-dotenv
+mcp
+anyio
+
